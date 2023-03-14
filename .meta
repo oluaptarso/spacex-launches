@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "spacex-launches-api": "https://github.com/oluaptarso/spacex-launches-api",
+    "spacex-launches-web-app": "https://github.com/oluaptarso/audio-streaming-web-app"
+  }
 }

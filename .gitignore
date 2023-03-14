@@ -1,0 +1,4 @@
+/spacex-launches-api/
+/spacex-launches-web-app/
+node_modules/
+yarn.lock
