@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../spacex-launches-api"
+		},
+		{
+			"path": "../spacex-launches-web-app"
+		}
+	],
+	"settings": {}
+}
