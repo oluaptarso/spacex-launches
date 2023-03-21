@@ -31,7 +31,7 @@ Backend REST API project, developed with [Nest](https://nestjs.com)
 Frontend web application project, developed with [Next.js](https://nextjs.org)
 
 ## Requirements
-- Node.js - 16.18.1+;
+- Node.js - ^14.20.0 || ^16.13.0 || >=18.10.0 (The project was developed using 16.17.1);
 - npm - 8.19.2+.
 
 Visual Studio Code is optional but is highly recommended.
