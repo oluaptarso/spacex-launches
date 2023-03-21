@@ -5,9 +5,13 @@ services:
     ports:
       - "3001:3001"
     image: spacex-launches-api
+    environment:
+      - SPACEX_API_URL=https://api.spacexdata.com/v5
   web-app:
     build: ./spacex-launches-web-app/.
     ports:
       - "3000:3000"
     image: spacex-launches-web-app
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:3001
   
